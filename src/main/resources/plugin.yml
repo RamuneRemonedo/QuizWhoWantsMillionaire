@@ -1,0 +1,6 @@
+name: QuizWhoWantsMillionaire
+version: '${project.version}'
+main: tokyo.ramune.quizwhowantsmillionaire.QuizWhoWantsMillionaire
+api-version: 1.18
+depend:
+  - Vault
